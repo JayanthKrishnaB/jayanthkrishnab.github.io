@@ -591,7 +591,7 @@ pre code {
 }
 
 .container {
-  width: 100%;
+  width: 90%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -10719,6 +10719,8 @@ h5,
     position: relative;
     top: 0;
     padding: 0px 15px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }
 .ftco-navbar-light .navbar-brand {
@@ -11261,7 +11263,7 @@ h5,
 }
 
 .container {
-  max-width: 2500px;
+  max-width: 1250px;
   padding-left: 0px;
   padding-right: 0px;
 }
@@ -11708,7 +11710,7 @@ textarea.form-control {
 }
 
 .heading-section h2 {
-  font-size: 13vw;
+  font-size: 14vw;
   font-weight: 900;
   line-height: 1;
   font-family: "Poppins", Arial, sans-serif;
