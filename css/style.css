@@ -4746,6 +4746,8 @@ input[type="button"].btn-block {
   .navbar-expand-lg > .container-fluid {
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
+
+    display: contents;
   }
   .navbar-expand-lg .navbar-collapse {
     display: -webkit-box !important;
@@ -11483,7 +11485,7 @@ textarea.form-control {
   visibility: hidden;
 }
 .bg-primary {
-  background: #fdcb6e !important;
+  background: #000 !important;
 }
 
 .media-custom {
@@ -11710,7 +11712,7 @@ textarea.form-control {
 }
 
 .heading-section h2 {
-  font-size: 14vw;
+  font-size: 13vw;
   font-weight: 900;
   line-height: 1;
   font-family: "Poppins", Arial, sans-serif;
