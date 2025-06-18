@@ -591,7 +591,7 @@ pre code {
 }
 
 .container {
-  width: 100%;
+  width: 90%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
@@ -4746,6 +4746,8 @@ input[type="button"].btn-block {
   .navbar-expand-lg > .container-fluid {
     -ms-flex-wrap: nowrap;
     flex-wrap: nowrap;
+
+    display: contents;
   }
   .navbar-expand-lg .navbar-collapse {
     display: -webkit-box !important;
@@ -10719,6 +10721,8 @@ h5,
     position: relative;
     top: 0;
     padding: 0px 15px;
+    padding-left: 0px;
+    padding-right: 0px;
   }
 }
 .ftco-navbar-light .navbar-brand {
@@ -11261,7 +11265,7 @@ h5,
 }
 
 .container {
-  max-width: 2500px;
+  max-width: 1250px;
   padding-left: 0px;
   padding-right: 0px;
 }
@@ -11481,7 +11485,7 @@ textarea.form-control {
   visibility: hidden;
 }
 .bg-primary {
-  background: #fdcb6e !important;
+  background: #000 !important;
 }
 
 .media-custom {
